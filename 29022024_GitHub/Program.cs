@@ -6,7 +6,7 @@ namespace _29022024_GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bu Bizim ilk Github uygulamamızdır.");
         }
     }
 }
